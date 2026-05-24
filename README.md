@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/Mizanur-Rahmann/Mizanur-Rahmann/main/Teal-and-Black-Modern-Programmer-New-LinkedIn-Banner.png)
+![Banner](https://github.com/Mizanur-Rahmann/Mizanur-Rahmann/blob/main/Teal%20and%20Black%20Modern%20Programmer%20New%20LinkedIn%20Banner.png)
 # Mizanur Rahman
 
 Full-Stack .NET Developer
