@@ -2,7 +2,7 @@
 
 ## 📊 GitHub Stats
 
-![Mizanur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mizanur-Rahmann&show_icons=true&theme=tokyonight)
+![Mizanur's GitHub stats](https://gh-stats.com/api?username=Mizanur-Rahmann&show_icons=true&theme=tokyonight)
 
 
 - 🔭 I turn ideas into functioning applications
