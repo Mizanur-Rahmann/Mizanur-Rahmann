@@ -16,9 +16,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mizanur-Rahmann&theme=dark&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakNum=00E5FF&sideNums=00E5FF&currStreakLabel=00E5FF&sideLabels=C0C0C0&dates=C0C0C0)
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Stats Summary
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Mizanur-Rahmann&theme=darkhub&no-frame=true&row=1&column=6)
+![GitHub Stats Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mizanur-Rahmann&theme=github_dark)
 
 ---
 
