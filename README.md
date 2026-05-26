@@ -12,9 +12,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
+
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mizanur-Rahmann&theme=dark&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakNum=00E5FF&sideNums=00E5FF&currStreakLabel=00E5FF&sideLabels=C0C0C0&dates=C0C0C0" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizanur-Rahmann&layout=compact&theme=dark&bg_color=0D1117&title_color=00E5FF&text_color=C0C0C0&hide_border=true" width="42%" />
-</p>
+![Mizanur's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=Mizanur-Rahmann&theme=dark&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF)
