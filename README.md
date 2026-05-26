@@ -14,7 +14,4 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Mizanur-Rahmann&cc=000&tc=00E5FF&ic=00E5FF&bc=000" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizanur-Rahmann&layout=compact&theme=dark&bg_color=0D1117&title_color=00E5FF&text_color=C0C0C0&hide_border=true" height="170">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Mizanur-Rahmann&show_icons=true&theme=dark&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C0C0C0&hide_border=true" height="170">
