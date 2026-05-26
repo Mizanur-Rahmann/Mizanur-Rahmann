@@ -14,7 +14,7 @@
 
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mizanur-Rahmann&theme=dark&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mizanur-Rahmann&theme=dark&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakNum=00E5FF&sideNums=00E5FF&currStreakLabel=00E5FF&sideLabels=C0C0C0&dates=C0C0C0)
 
