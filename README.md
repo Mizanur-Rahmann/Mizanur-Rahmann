@@ -12,8 +12,4 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-## 📊 GitHub Stats
-
-![Mizanur's GitHub stats](https://github-readme-stats-nine-phi-18.vercel.app/api?username=Mizanur-Rahmann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB)
-
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Mizanur-Rahmann&theme=onedark&no-frame=true&row=1&column=6)
+![Mizanur's GitHub stats](https://github-readme-stats-4is2zz2ny-mizanur-rahman-s-projects1.vercel.app/api?username=Mizanur-Rahmann&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C0C0C0&include_all_commits=true&count_private=true)
