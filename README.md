@@ -14,7 +14,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://gh-stats.com/api?username=Mizanur-Rahmann&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=00E5FF&text_color=C0C0C0" height="170">
-  <img src="https://gh-stats.com/api/top-langs/?username=Mizanur-Rahmann&layout=compact&theme=dark&bg_color=0D1117&title_color=00E5FF&text_color=C0C0C0&hide_border=true" height="170">
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mizanur-Rahmann&theme=dark&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakNum=00E5FF&sideNums=00E5FF&currStreakLabel=00E5FF&sideLabels=C0C0C0&dates=C0C0C0" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mizanur-Rahmann&layout=compact&theme=dark&bg_color=0D1117&title_color=00E5FF&text_color=C0C0C0&hide_border=true" width="42%" />
+</p>
