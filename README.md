@@ -1,11 +1,19 @@
 ![Banner](https://github.com/Mizanur-Rahmann/Mizanur-Rahmann/blob/main/Teal%20and%20Black%20Modern%20Programmer%20New%20LinkedIn%20Banner.png)
 
+
+
+## 🛠️ Tech Stack
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
 ## 📊 GitHub Stats
 
-![Mizanur's GitHub stats](https://gh-stats.com/api?username=Mizanur-Rahmann&show_icons=true&theme=tokyonight)
+![Mizanur's GitHub stats](https://github-readme-stats-nine-phi-18.vercel.app/api?username=Mizanur-Rahmann&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB)
 
-
-- 🔭 I turn ideas into functioning applications
-- 🌱 Completed IT training in ASP.NET Core, Angular, React
-- 👯 Open to junior .Net developer roles
-
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Mizanur-Rahmann&theme=onedark&no-frame=true&row=1&column=6)
