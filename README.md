@@ -9,7 +9,7 @@
 
 <table>
 <tr>
-<td valign="top" width="40%">
+<td valign="top" width="50%">
 
 ```csharp
 namespace Mizan.Profile
