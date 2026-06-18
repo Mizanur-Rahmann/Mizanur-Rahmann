@@ -19,7 +19,7 @@ namespace Mizan.Profile
         public string Name = "Mizanur Rahmann";
         public string Location = "Chattogram, Bangladesh";
         public string Role = "Full-Stack .NET Developer";
-        public string[] Stack = { "C#","SQL",".NET", "React", "Angular".. };
+        public string[] Stack ={ "C#","SQL",".NET","React","Angular" };
     }
 }
 ```
