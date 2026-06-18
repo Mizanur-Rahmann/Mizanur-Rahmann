@@ -1,6 +1,31 @@
 ![Banner](https://github.com/Mizanur-Rahmann/Mizanur-Rahmann/blob/main/Teal%20and%20Black%20Modern%20Programmer%20New%20LinkedIn%20Banner.png)
 
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=const+developer+%3D+%7B+name%3A+%22Mizanur%22+%7D%3B;Junior+Full-Stack+.NET+Developer;Building+with+.NET+%2C+React+%26+MERN;Currently+shipping+a+Ludo+game+in+MonoGame+%F0%9F%8E%AE" alt="Typing SVG" />
+
+</div>
+
+---
+
+### 📁 about-me.cs
+
+```csharp
+namespace Mizanur.Profile
+{
+    public class Developer
+    {
+        public string Name = "Mizanur Rahmann";
+        public string Location = "Chattogram, Bangladesh";
+        public string Role = "Junior Full-Stack .NET Developer";
+      
+        public string[] Stack = { "C#","SQL Server",".NET", "React", "Angular", "Node.js", "MERN" };
+       
+    }
+}
+```
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -12,24 +37,28 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 
-
-
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mizanur-Rahmann&theme=dark&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakNum=00E5FF&sideNums=00E5FF&currStreakLabel=00E5FF&sideLabels=C0C0C0&dates=C0C0C0)
+---
 
 ## 📊 GitHub Stats Summary
 
 ![GitHub Stats Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mizanur-Rahmann&theme=github_dark)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Mizanur-Rahmann&theme=dark&hide_border=true&background=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakNum=00E5FF&sideNums=00E5FF&currStreakLabel=00E5FF&sideLabels=C0C0C0&dates=C0C0C0)
+
 ---
 
-## 👁️ Profile Views
+## 🐍 Contribution Snake
 
-![Profile Views](https://komarev.com/ghpvc/?username=Mizanur-Rahmann&color=00E5FF&style=flat-square)
+![github-snake](https://raw.githubusercontent.com/Mizanur-Rahmann/Mizanur-Rahmann/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ## 📈 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mizanur-Rahmann&theme=react-dark&bg_color=0D1117&color=00E5FF&line=00E5FF&point=C0C0C0&hide_border=true)
+
+---
+
+## 👁️ Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=Mizanur-Rahmann&color=00E5FF&style=flat-square)
