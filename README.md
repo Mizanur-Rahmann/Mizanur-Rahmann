@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=const+developer+%3D+%7B+name%3A+%22Mizanur%22+%7D%3B;Junior+Full-Stack+.NET+Developer;Building+with+.NET+%2C+React+%26+MERN;Currently+shipping+a+Ludo+game+in+MonoGame+%F0%9F%8E%AE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=const+developer+%3D+%7B+name%3A+%22Mizanur+Rahman%22+%7D%3B;Full-Stack+.NET+Developer;Building+with+.NET+%2C+React+%26+MERN;Turning+Data+into+Decisions+%F0%9F%8E%AE" alt="Typing SVG" />
 
 </div>
 
@@ -17,7 +17,7 @@ namespace Mizanur.Profile
     {
         public string Name = "Mizanur Rahmann";
         public string Location = "Chattogram, Bangladesh";
-        public string Role = "Junior Full-Stack .NET Developer";
+        public string Role = "Full-Stack .NET Developer";
       
         public string[] Stack = { "C#","SQL Server",".NET", "React", "Angular", "Node.js", "MERN" };
        
