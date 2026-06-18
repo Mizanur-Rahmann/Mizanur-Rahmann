@@ -9,8 +9,12 @@
 
 ### 📁 about-me.cs
 
-```csharp
-namespace Mizanur.Profile
+<table>
+<tr>
+<td valign="top" width="60%">
+
+<pre>
+namespace Mizan.Profile
 {
     public class Developer
     {
@@ -21,9 +25,10 @@ namespace Mizanur.Profile
        
     }
 }
-```
+</pre>
+
 </td>
-<td valign="top" width="60%">
+<td valign="top" width="40%">
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="40%"/>
 </td>
 </tr>
