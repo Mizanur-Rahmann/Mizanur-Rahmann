@@ -24,7 +24,7 @@ namespace Mizanur.Profile
 ```
 </td>
 <td valign="top" width="40%">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/hacking.gif" width="200"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/hacking.gif" width="50%"/>
 </td>
 </tr>
 </table>
