@@ -25,7 +25,7 @@ namespace Mizan.Profile
 ```
 
 </td>
-<td valign="top" width="40%">
+<td valign="top" width="100%">
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
 </td>
 </tr>
