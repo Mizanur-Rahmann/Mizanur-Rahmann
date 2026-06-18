@@ -1,8 +1,5 @@
-
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00E5FF,100:0D1117&height=220&section=header&text=Mizanur%20Rahmann&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20.NET%20Developer&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
-
 </div>
 
 ---
@@ -13,8 +10,8 @@
 <tr>
 <td valign="top" width="60%">
 
-<pre>
-namespace Mizan.Profile
+```csharp
+namespace Mizanur.Profile
 {
     public class Developer
     {
@@ -22,13 +19,13 @@ namespace Mizan.Profile
         public string Location = "Chattogram, Bangladesh";
         public string Role = "Full-Stack .NET Developer";
         public string[] Stack = { "C#","SQL Server","ASP.NET", "React", "Angular", "Node.js" };
-       
+
     }
 }
-</pre>
+```
 
 </td>
-<td valign="top" width="100%">
+<td valign="top" width="40%">
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
 </td>
 </tr>
@@ -56,7 +53,7 @@ namespace Mizan.Profile
 
 ---
 
-## 🐍 Swallowing My Contribution 
+## 🐍 Swallowing My Contribution
 
 ![github-snake](https://raw.githubusercontent.com/Mizanur-Rahmann/Mizanur-Rahmann/output/github-contribution-grid-snake-dark.svg)
 
