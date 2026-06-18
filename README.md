@@ -9,7 +9,7 @@
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="30%">
 
 ```csharp
 namespace Mizan.Profile
@@ -26,7 +26,7 @@ namespace Mizan.Profile
 
 </td>
 <td valign="top" width="40%">
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"  width="200" height="200"/>
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"  width="280" height="280"/>
 </td>
 </tr>
 </table>
