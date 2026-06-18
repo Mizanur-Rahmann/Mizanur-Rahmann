@@ -9,7 +9,7 @@
 
 <table>
 <tr>
-<td valign="top" width="30%">
+<td valign="top" width="40%">
 
 ```csharp
 namespace Mizan.Profile
@@ -19,7 +19,7 @@ namespace Mizan.Profile
         public string Name = "Mizanur Rahmann";
         public string Location = "Chattogram, Bangladesh";
         public string Role = "Full-Stack .NET Developer";
-        public string[] Stack = { "C#","SQL Server","ASP.NET", "React", "Angular", "Node.js" };
+        public string[] Stack = { "C#","SQL Server","ASP.NET", "React", "Angular".. };
     }
 }
 ```
